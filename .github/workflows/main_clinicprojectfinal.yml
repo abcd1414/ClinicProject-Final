@@ -49,5 +49,5 @@ jobs:
         with:
           app-name: 'ClinicProjectFinal'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_6F32877F3ED145BEAFF7C08502A4293A }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_ADEABC1288234FC5BA0B554A71FF879D }}
           package: '*.jar'
